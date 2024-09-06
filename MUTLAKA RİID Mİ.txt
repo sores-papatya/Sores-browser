@@ -1,0 +1,9 @@
+Merhaba kullanıcı! sana bişey itiraf etmeliyim; browser doğru düzgün çalışmıyor. Ses çıkmıyor yani youtube de video açsan bile ses gelmez. Kamera erişimi yok browserımıda kamera kullanamasın. Mikrofon erişimi yok mikrofonu kullanamazsın
+
+* Bu sorunları en kısa sürede çözmeye çalışacağım
+* Son sürüm ve en iyisi 2.5 sürümüdür.
+* Yüklemen gereken kütüphaneleri kodu açarak bakabilirsin en yukarda yazıyo zaten import .... diye yazıyor o nokta kısmı kütüphaneler
+
+
+
+--------------------------------------------------KODLARIMIN BENDE İZİNSİZ KOPYALANMASI VEYA ÇALINMASI DURUMUNDA YASAL HAKLARIMI KULLANACAĞIM!!!--------------------------------------
